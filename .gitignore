@@ -7,3 +7,5 @@ _WK*.ipynb
 *.pyc.*
 data/image/lfw
 cifar-10-batches-py/
+data/cifar-10-batches-py/
+data/*tar.gz
