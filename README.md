@@ -1,4 +1,7 @@
 # CIFAR-10 Example
+
+(Start from "trying new thing - determine the dominant color")
+
 Dominant Color Predictor and Generative Art Project
 This project explores the use of machine learning to analyze and visualize the dominant colors in images. Starting with the CIFAR-10 dataset, a custom neural network predicts the dominant color (Red, Green, or Blue) of each image based on pixel intensity.
 
