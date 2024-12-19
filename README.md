@@ -1,10 +1,6 @@
 # CIFAR-10 Example
 
-(Start from "trying new thing - determine the dominant color")
+Dominant Channel Predictor and Generative Art
+This project combines machine learning with generative art to analyze and visualize dominant colors in images. Using the CIFAR-10 dataset, a custom neural network predicts the dominant color channel (Red, Green, or Blue) based on pixel intensity.
 
-Dominant channel predictor and Generative Art Project
-This project explores the use of machine learning to analyze and visualize the dominant colors in images. Starting with the CIFAR-10 dataset, a custom neural network predicts the dominant color (Red, Green, or Blue) of each image based on pixel intensity.
-
-Building on this foundation, the project ventures into generative art. By leveraging the predicted dominant color, it creates unique, color-themed artistic patterns, blending technology and creativity. The goal is to combine data-driven insights with visual expression, offering an interactive and artistic perspective on machine learning outputs.
-
-- Last thing i did: tried to call gpt 2 and stable diffusion api via huggfaces (free)-> and generate stories and other visuals based on the dominant channel the Machine detected.
+Building on these predictions, the project generates unique, color-themed artistic patterns, blending technology and creativity. Recent efforts included integrating GPT-2 and Stable Diffusion APIs via Hugging Face to create visuals (and potentially stories) based on the detected dominant channel. While generating visuals works, story generation has limitations, and occasional queue delays impact processing.
